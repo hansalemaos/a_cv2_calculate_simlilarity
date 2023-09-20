@@ -1,4 +1,6 @@
+a_cv_imwrite_imread_plus
+allescacher
+numexpr
 numpy
 opencv_python
-PILasOPENCV
-requests
+pandas
